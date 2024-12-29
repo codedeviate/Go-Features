@@ -7,7 +7,7 @@ This is the source code for the examples found in Go Features
 
 ## Table of Contents
 
-- [GoRoutines](Goroutines/README.md)
+- [Goroutines](Goroutines/README.md)
 - [Channels](Channels/README.md)
 - [Timers](Timers/README.md)
 - [Select](Select/README.md)
