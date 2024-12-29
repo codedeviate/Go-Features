@@ -1,7 +1,5 @@
 # Go-Features
-This is the source code for the examples found in Go Features
-
-[Source](https://codedeviate.github.io/aicollection/go-features.html)
+This is the source code for the examples found in [Go Features](https://codedeviate.github.io/aicollection/go-features.html)
 
 > Some of this code might not make sense without the context of the article. Please refer to the article for more information.
 
