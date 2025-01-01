@@ -1,11 +1,13 @@
 go.mod
 go.sum
 
+CrossPlatformSupport/FilePaths/example
 CrossPlatformSupport/PlatformSpecificCode/platformspecificcode
 CrossPlatformSupport/PlatformSpecificCode/platformspecificcode.exe
 CrossPlatformSupport/UsingGoSqlite3/usinggosqlite3
 CrossPlatformSupport/UsingGoSqlite3/usinggosqlite3.exe
 CrossPlatformSupport/UsingGoSqlite3/test.db
+Defer/Cleanup/example.txt
 Generics/AddWithNumericConstraint/add
 Generics/AddWithNumericConstraint/add.exe
 Generics/GenericMin/genericmin
@@ -16,3 +18,4 @@ Generics/TypeInference/inference
 Generics/TypeInference/inference.exe
 GoModules/AddingDependency/addingdependency
 GoModules/AddingDependency/addingdependency.exe
+StandardLibrary/os/example.txt
