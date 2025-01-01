@@ -26,3 +26,4 @@ This is the source code for the examples found in [Go Features](https://codedevi
 - [Cross-Platform Support](CrossPlatformSupport/README.md)
 - [Performance](Performance/README.md)
 - [Simplicity and Readability](SimplicityAndReadability/README.md)
+- [Concurrency](Concurrency/README.md)
